@@ -103,3 +103,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 * **[GitHub](https://github.com/Kaushalya13)**
 * **[LinkedIn](https://www.linkedin.com/in/niwanthi-kaushalya/)**
+
+
+## 🌐 Live Portfolio
+Check it out here 👉 [niwanthi.vercel.app](https://niwanthi.vercel.app/)

@@ -10,7 +10,7 @@ export default function Home() {
     <section
       id="home"
       className="min-h-[calc(100vh-84px)] flex items-center bg-gray-900"
-      style={{ background: "#1a202c" }} // section background
+      style={{ background: "#1a202c" }} 
     >
       <div className="mx-auto max-w-6xl px-6 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
         {/* Left Content */}

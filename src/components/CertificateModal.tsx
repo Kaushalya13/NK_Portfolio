@@ -2,10 +2,10 @@
 "use client";
 import React from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import Image, { StaticImageData } from "next/image"; // Import StaticImageData
+import Image, { StaticImageData } from "next/image"; 
 
 interface CertificateModalProps {
-  imgSrc: string | StaticImageData | null; // Allow both string and StaticImageData
+  imgSrc: string | StaticImageData | null; 
   onClose: () => void;
 }
 

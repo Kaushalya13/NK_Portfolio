@@ -1,7 +1,7 @@
 // src/sections/Resume.tsx
 "use client";
 import React, { useState } from "react";
-import { motion, AnimatePresence } from "framer-motion"; // Import motion components
+import { motion, AnimatePresence } from "framer-motion"; 
 import AnimatedSection from "@/components/AnimatedSection";
 import SkillCard from "@/components/SkillCard";
 

@@ -1,6 +1,6 @@
 // src/components/SkillCard.tsx
 import React from "react";
-import Image from "next/image"; // Import the Next.js Image component
+import Image from "next/image";
 
 interface SkillCardProps {
   imgSrc: string;
@@ -15,7 +15,7 @@ export default function SkillCard({ imgSrc, name }: SkillCardProps) {
           src={imgSrc}
           alt={`${name} logo`}
           layout="fill"
-          objectFit="contain" // This ensures the logo fits well within the circle
+          objectFit="contain" 
         />
       </div>
       <h4 className="text-lg font-semibold text-gray-200">{name}</h4>

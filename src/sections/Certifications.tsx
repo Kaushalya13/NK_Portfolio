@@ -1,7 +1,7 @@
 // src/sections/Certifications.tsx
 "use client";
 import React, { useState } from "react";
-import Image, { StaticImageData } from "next/image"; // Import StaticImageData
+import Image, { StaticImageData } from "next/image"; 
 import AnimatedSection from "@/components/AnimatedSection";
 import CertificateModal from "@/components/CertificateModal";
 
@@ -15,13 +15,13 @@ const certifications = [
     title: "UI / UX for Beginners",
     provider: "Great Learning Academy",
     date: "On March 2024",
-    imgSrc: uiUxBeginner, // Use the imported image object
+    imgSrc: uiUxBeginner, 
   },
   {
     title: "Front End Development - HTML",
     provider: "Great Learning Academy",
     date: "On August 2024",
-    imgSrc: frontEndHtml, // Use the imported image object
+    imgSrc: frontEndHtml,
   },
 ];
 
@@ -46,7 +46,7 @@ export default function Certifications() {
                     layout="fill"
                     objectFit="cover"
                     className="opacity-80 group-hover:opacity-100 transition-opacity"
-                    placeholder="blur" // Optional: adds a nice blur-up effect
+                    placeholder="blur" 
                   />
                 </div>
                 <div className="p-6">

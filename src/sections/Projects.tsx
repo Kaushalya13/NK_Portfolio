@@ -15,11 +15,11 @@ const portfolioItems = [
   },
   { 
     id: 2, 
-    src: "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiYWR5ZW5cL2ZpbGVcL3Zlb0QzVG4xYjlxR2VzVlFNNXY0LmpwZyJ9:adyen:zO6fngFmnJBXDHIDsXx-ul2r2AMT66mrdokZY38IIv4?width=1152&height=1152&format=webp&crop=fp&fp=0.5,0.5", 
-    title: "PetMedi - Veterinary Platform", 
-    desc: "A veterinary platform for managing pet healthcare, appointments, treatments, and billing with secure authentication and role-based access.", 
-    tech: ["Angular", "Spring Boot", "MySQL", "Docker"], 
-    href: "#" 
+    src: "https://i.pinimg.com/1200x/52/3b/a7/523ba7ef041e84a5ec10c6dd8610844c.jpg", 
+    title: "Clothing website", 
+    desc: "A clothing website platform for managing product listings, shopping cart, and secure checkout.", 
+    tech: ["Next Js", "TypeScript", "Tailwind CSS"], 
+    href: "https://github.com/Kaushalya13/Clothing-Website.git" 
   },
   { 
     id: 3, 

@@ -38,7 +38,6 @@ const skills = {
     { name: "Java", imgSrc: "https://i.pinimg.com/1200x/07/49/b8/0749b89936136f826c352867bb997a48.jpg" },
     { name: "JavaScript", imgSrc: "https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" },
     { name: "TypeScript", imgSrc: "https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" },
-    { name: "Python", imgSrc: "https://www.vectorlogo.zone/logos/python/python-icon.svg" },
   ],
   "Frameworks & Libraries": [
     { name: "React", imgSrc: "https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" },

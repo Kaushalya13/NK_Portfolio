@@ -86,8 +86,10 @@ export default function About() {
                 Contact Me
               </a>
               <a
-                href="/Trainee QA Engineer CV (1).pdf"
-                download
+                href="/Niwanthi Kaushalya Resume.pdf"
+                download="Niwanthi_Kaushalya_Resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="px-6 py-3 rounded-full font-semibold border transition duration-300"
                 style={{ borderColor: "var(--accent)", color: "var(--accent)" }}
               >
